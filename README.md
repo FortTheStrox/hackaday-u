@@ -1,4 +1,4 @@
-# Hackaday U - Introduction to Reverse Engineering with Ghidra
+# Hackaday U - Introduction to Reverse Engineering with Ghidra (Test F)
 
 This repository contains the exercises and resource materials for the Hackaday-U Course: Introduction to Reverse Engineering with Ghidra.
 
